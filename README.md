@@ -9,8 +9,8 @@ chmod 777 { file_path publish}/CloudPhoto
 Пример: chmod 777 /User/publish/CloudPhoto
 
 ### 3. Прописать алиас
-a. cd ~
-b. nano .bashrc
-c. Вставить строку: alias cloudphoto='{ file_path publish}/CloudPhoto'
+* cd ~
+* nano .bashrc
+* Вставить строку: alias cloudphoto='{ file_path publish}/CloudPhoto'
 
 Пример: alias cloudphoto='/User/publish/CloudPhoto'
